@@ -11,6 +11,6 @@ st.title('Did they survive? :ship:')
 passengerid = st.text_input("Input Passenger ID", '123456') 
 
 
-x= my_function(passengerid)
+#x= my_function(passengerid)
 
-st.write('Welcome Passenger ID  ', x)
+st.write('Welcome Passenger ID  ', 450)
